@@ -15,7 +15,7 @@ export default function Header() {
       <div className="container header-inner">
         <div className="logo-container">
           <Link href="/">
-            <img src="/assets/images/logo/better-solano-logo.svg" alt="Better Solano Logo" className="logo-img" />
+            <span className="logo-img">BetterPakil</span>
           </Link>
         </div>
 
